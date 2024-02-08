@@ -31,22 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "A payment app paytm clone",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "make payments online",
+    url: "https://github.com/apsinghdev/Paytm",
   },
   {
-    title: "Web Development for Beginners",
+    title: "My mern estate website",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "My mern estate website",
+    url: "https://github.com/apsinghdev/mern-estate-website",
   },
   {
-    title: "My Resume Site",
+    title: "My contribution in open source",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://github.com/sugarlabs/musicblocks/pull/3468",
   },
   {
     title: "GitHub Codespaces and github.dev",
